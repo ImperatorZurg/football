@@ -10,7 +10,7 @@ Football. It was created by the Google Brain team for research purposes.
 
 This is not an official Google product.
 
-We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
+We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game. Danke.
 
 For more information, please look at our [paper](https://arxiv.org/abs/1907.11180).
 
